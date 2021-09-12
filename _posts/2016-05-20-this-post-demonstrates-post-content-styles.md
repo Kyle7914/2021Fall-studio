@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Researches"
-categories: 
+categories: junk
 author:
 - Kyle Su
 ---
