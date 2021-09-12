@@ -16,13 +16,14 @@ minima:
   # generate social links in footer
   social_links:
     twitter: 
-    github:  
+    github:  https://github.com/Kyle7914
     website: https://keanmgc.github.io/2021fall3yr-studio/
+    instagram: https://www.instagram.com/kyle7914s/
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
