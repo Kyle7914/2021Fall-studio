@@ -32,8 +32,10 @@ author:
 ## Client: Old Generation
     - work & life balance. (focusing more on hobby)
     - Pets. (dog/cat/plants/...)
-    - Habit: clean/tidy. (Maximize the use of minimized resources) 
+    - Habit: clean/tidy. (Maximize the use of minimized resources)
     - Having more control on their own home.
     - Having partner/Single
     - Outdoor person.
     - Lighting situation.
+
+![Paper_houde](https://raw.githubusercontent.com/Kyle7914/2021Fall-studio/master/assets/shigeru_ban_disaster_relief_shelters_installations_exhibition_SCAF_australia_designboom_02.0.jpg)
