@@ -38,4 +38,24 @@ author:
     - Outdoor person.
     - Lighting situation.
 
-![Paper_houde](https://raw.githubusercontent.com/Kyle7914/2021Fall-studio/master/assets/shigeru_ban_disaster_relief_shelters_installations_exhibition_SCAF_australia_designboom_02.0.jpg)
+
+
+## Material Researches
+
+1. Paper.
+
+[![Paper_houde](https://raw.githubusercontent.com/Kyle7914/2021Fall-studio/master/assets/shigeru_ban_disaster_relief_shelters_installations_exhibition_SCAF_australia_designboom_02.0.jpg)][6b7586e9]
+
+  [6b7586e9]: https://inhabitat.com/shigeru-bans-ingenious-cardboard-and-bamboo-emergency-shelters-pop-up-in-sydney/shigeru-ban-emergency-shelter-sydney/ "Shigeru Ban"
+
+
+2. Recyclable Building Material.
+
+[![blocks](https://raw.githubusercontent.com/Kyle7914/2021Fall-studio/master/assets/%E4%B8%8B%E8%BD%BD.jpeg)][58666c6d]
+
+  [58666c6d]: https://www.architectmagazine.com/awards/r-d-awards/award-drywall-waste-block-a-green-cmu_o "recycling bricks"
+
+3. Tent.
+
+![tent](https://raw.githubusercontent.com/Kyle7914/2021Fall-studio/master/assets/10419363x1013039_zm.jpeg)
+![shape](https://github.com/Kyle7914/2021Fall-studio/blob/master/assets/tentshapes.jpg?raw=true)
