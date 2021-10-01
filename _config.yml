@@ -48,7 +48,7 @@ minima:
     # - username: jekyll2
     #   instance: example.com
 
-# - about.md
+
 
 # Build settings
 theme: minima
